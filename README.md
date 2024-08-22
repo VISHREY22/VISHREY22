@@ -29,3 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishrey22&show_icons=true&locale=en" alt="vishrey22" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishrey22&" alt="vishrey22" /></p>
+![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/{VISHREY CHOTALIA})
